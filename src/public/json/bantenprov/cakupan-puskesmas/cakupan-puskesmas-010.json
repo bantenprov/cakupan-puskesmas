@@ -1,0 +1,194 @@
+[
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2010",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          62.26,
+          65.49,
+          68.79,
+          62.56,
+          71.07,
+          65.72,
+          67.2,
+          72.04
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2011",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          62.46,
+          65.63,
+          68.86,
+          62.75,
+          71.08,
+          65.78,
+          67.22,
+          72.07
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          62.66,
+          65.74,
+          68.92,
+          62.9,
+          71.09,
+          65.82,
+          67.23,
+          72.09
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          62.83,
+          65.83,
+          68.96,
+          63.03,
+          71.09,
+          65.84,
+          67.23,
+          72.1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          62.91,
+          65.88,
+          68.98,
+          63.09,
+          71.09,
+          65.85,
+          67.23,
+          72.11
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          63.51,
+          66.28,
+          69.28,
+          63.59,
+          71.29,
+          66.15,
+          67.33,
+          72.12         
+        ]
+      }
+    ]
+  }
+]
